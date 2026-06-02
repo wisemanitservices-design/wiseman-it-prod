@@ -1,0 +1,6 @@
+{
+  "name": "Wiseman IT Services",
+  "description": "Enterprise-grade Cybersecurity, Managed Threat Detection, Cloud Security Assessments, and CIS Controls-based Cyber Security Maturity Assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

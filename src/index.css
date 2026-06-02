@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mars-red: #d92e1e;
+  --color-mars-red-hover: #b82215;
+  --color-mars-gold: #f3cc14;
+  --color-mars-gold-hover: #d1ad0c;
+  --color-mars-black: #070404;
+  --color-mars-dark: #110808;
+  --color-mars-border: #1f0f0f;
+  --color-mars-card: #150a0a;
+  --color-gemini-cyan: #28d6f9;
+  --color-gemini-cyan-hover: #1cb8d9;
+}
